@@ -62,7 +62,7 @@ namespace Lab1
             rects[28] = new Rectangle(160, 360, 140, 12);
             rects[29] = new Rectangle(725, 360, 140, 12);
             rects[30] = new Rectangle(160, 437, 135, 12);
-            //rects[31] = new Rectangle(725, 437, 140, 12);
+            rects[31] = new Rectangle(725, 437, 140, 12);
             rects[32] = new Rectangle(285, 360, 12, 84);
             rects[33] = new Rectangle(725, 360, 12, 84);
             rects[34] = new Rectangle(285, 233, 12, 84);//
